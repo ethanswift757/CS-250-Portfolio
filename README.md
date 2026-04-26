@@ -1,2 +1,11 @@
-# CS-250-Portfolio
-Sprint Review, Retrospective, and Reflection
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+I interpret the user's needs by focusing on what the person is trying to accomplish instead of just the technical half of the program. During the travel project, I realized the user’s perspective helps guide what features should be built and how they should function. Creating these user stories made this process a lot easier because they break down larger goals into more manageable tasks that connect directly to the user experience. For an example, a user story about displaying travel destinations with descriptions/images made it clear what needed to be developed. As requirements changed, like shifting toward detox/healthy travel, the user stories allowed the team to adjust without losing focus on the user. 
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+My approach to developing programs is more flexible and "step-by-step" rather than trying to complete everything all at once. I first focus on breaking work into smaller tasks, prioritizing them, and improving the program over time, which makes the process more manageable and adaptable to change (of course to succed in agile I have to be willing to do this backwards if the situation called for it). The processes I plan to continue using include the Sprint Planning, Daily Scrums, and Reviews, since they help keep work organized and allow for continuous feedback. Sprint Planning helps define goals, Daily Scrums track progress, and Sprint Reviews provide the feedback. I also plan to keep using product backlogs and iterative development to stay organized. 
+
+What does it mean to be a good team member in software development?
+
+To be a good member within software development means you communicate clearly, stay engaged, and want to work towards a shared goal. Asking questions early and participating in Scrum events helps avoid small issues that could snowball into big/exensive ones. A good team member also respects the roles of others, including the Product Owner, Scrum Master, developers, and testers, and understanding how each contributes to the project’s success like a interconnected web. Following the core Scrum values (openness, respect, commitment, focus, and courage) also helps create a positive and productive team environment.
